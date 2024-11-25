@@ -1,28 +1,22 @@
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.XR.Interaction.Toolkit.Interactors;
 
 public class ResetButton3D : MonoBehaviour
 {
-    public PinResetter pinResetter; // Assign in Inspector
+    public PinResetter pinResetter;  // Assign in Inspector
+    public BallResetter ballResetter; // Assign in Inspector
 
-    void OnTriggerEnter(Collider other)
+    public void OnButtonClick(XRBaseInteractor interactor)
     {
-        // Ensure the collider is from the VR hand or interactor
-        if (other.CompareTag("PlayerHand") || other.CompareTag("Interactor"))
-        {
+        // Reset both pins and balls
+        if (pinResetter != null)
             pinResetter.ResetPins();
-            AnimateButtonPress();
-        }
+
+        if (ballResetter != null)
+            ballResetter.ResetBalls();
+
     }
 
-    void AnimateButtonPress()
-    {
-        // Example: Button moves slightly when pressed
-        transform.localPosition += new Vector3(0, -0.05f, 0);
-        Invoke(nameof(ResetButtonPosition), 0.2f);
-    }
-
-    void ResetButtonPosition()
-    {
-        transform.localPosition -= new Vector3(0, -0.05f, 0);
-    }
+   
 }
