@@ -2,13 +2,22 @@ using UnityEngine;
 
 public class Pin : MonoBehaviour
 {
-    public ScoringManager scoringManager;
+    public BowlingScoringManager scoringManager; // Assign in Inspector
+
+    private bool isKnockedDown = false;
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Ball"))
+        if (!isKnockedDown && other.CompareTag("Ball"))
         {
-            scoringManager.AddScore(10); 
+            isKnockedDown = true;
+            scoringManager.UpdateScore(1); // Add 1 point for each knocked-down pin
         }
+    }
+
+    public void ResetPin()
+    {
+        isKnockedDown = false;
+        // Add logic to reset the pin's position and rotation
     }
 }
