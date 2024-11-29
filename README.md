@@ -11,22 +11,22 @@
 ### Blog Posts
 1. **[Foundations](#)**  
     Exploring the Foundations of XR: What and Why
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/09/exploring-foundations-of-xr-what-and-why.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/09/exploring-foundations-of-xr-what-and-why.html)*
 2. **[Week 2](#)**  
     From Concept to First Prototype 
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/11/ar-game-from-concept-to-first-prototype.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/11/ar-game-from-concept-to-first-prototype.html)*
 3. **[Week 3](#)**  
     The Dragon and his Enemies
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/11/the-dragon-and-his-enemies-week-3.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/11/the-dragon-and-his-enemies-week-3.html)*
 4. **[Week 4](#)**  
     Crafting the Fireball
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/10/building-foundation-week-3.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/10/building-foundation-week-3.html)*
 5. **[Week 5](#)**  
     The Bowling Concept 
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/11/the-bowling-concept-week-5.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/11/the-bowling-concept-week-5.html)*
 6. **[Week 6](#)**  
     Making the physics work 
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/11/making-physics-work.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/11/making-physics-work.html)*
 7. **[Week 7](#)**  
     Final Polishes 
-   *[View Asset](https://xrd-group-6.blogspot.com/2024/11/final-polishes-week-7.html)*
+   *[View Blog](https://xrd-group-6.blogspot.com/2024/11/final-polishes-week-7.html)*
