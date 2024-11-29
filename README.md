@@ -6,7 +6,7 @@
 ## **🎥 YouTube Videos**
 1. **[VR Video Demonstration](#)**  
    This is a demonstration of the VR project
-   *[View Video on Youtube]([https://www.youtube.com/shorts/](https://youtu.be/CNrk5JfGxlI))*
+   *[View Video on Youtube](https://youtu.be/CNrk5JfGxlI)*
 
 ## Blog Posts
 1. **Foundations**  
