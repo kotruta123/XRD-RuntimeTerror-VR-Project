@@ -5,5 +5,5 @@
  
 ## **🎥 YouTube Videos**
 1. **[VR Video Demonstration](#)**  
-   This is a demonstration of the AR project
+   This is a demonstration of the VR project
    *[View Video on Youtube](https://www.youtube.com/shorts/)*
